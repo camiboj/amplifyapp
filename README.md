@@ -1,7 +1,6 @@
 Test deploy React application with AWS:
-[Amplify](https://aws.amazon.com/es/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro)
-
-[CodeFront + S3 + Code Pipeline](https://www.youtube.com/watch?v=Mgs7jl430vs)
+- [Amplify](https://aws.amazon.com/es/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro)
+- [CodeFront + S3 + Code Pipeline](https://www.youtube.com/watch?v=Mgs7jl430vs)
 
 # Getting Started with Create React App
 
